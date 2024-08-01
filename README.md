@@ -64,6 +64,6 @@ Contributions are welcome! Please follow these steps to contribute:
 ## 👉 Contact
 
 For any inquiries or feedback, please reach out to:
-- **Name**: Mohd Ramzan Shareef
-- **Email**: mail.ramzanshareef@gmail.com
-- **GitHub**: [ramzanshareef](https://github.com/ramzanshareef)
+- **Name**: Shruthik Ravula
+- **Email**: shruthikravula24@gmail.com
+- **GitHub**: [ShruthikRavula](https://github.com/ShruthikRavula)
